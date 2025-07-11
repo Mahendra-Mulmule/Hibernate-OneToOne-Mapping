@@ -1,6 +1,3 @@
-# Hibernate-OneToOne-Mapping
-Java Hibernate project demonstrating One-to-One mapping between Question and Answer entities
-# Hibernate One-to-One Mapping
 
 This project demonstrates a simple one-to-one mapping in Hibernate using annotations.
 
